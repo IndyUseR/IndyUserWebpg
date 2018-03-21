@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Hugo website</title>
+    <link>/IndyUserWebpg/</link>
+    <description>Recent content on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/IndyUserWebpg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Reticulate Package - Shankar</title>
+      <link>/IndyUserWebpg/2018/03/20/mar2018/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/03/20/mar2018/</guid>
+      <description>Shankar covered the basics of reticulate package. The codes covered in the talk are in this location.</description>
+    </item>
+    
+    <item>
+      <title>rstudio::conf2018 and tidyeval Discussion - Will Landau</title>
+      <link>/IndyUserWebpg/2018/02/20/feb2018/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/02/20/feb2018/</guid>
+      <description>Will talked about rstudio::conf2018 and discussed tidyeval concepts that he recently learnt at Hadley Wickham’s rstudio::conf2018 tutorial. (link to Will’s presentation material)</description>
+    </item>
+    
+    <item>
+      <title>Discussion of 2018 plans</title>
+      <link>/IndyUserWebpg/2018/01/16/jan2018/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/01/16/jan2018/</guid>
+      <description>We discussed plans for 2018 as a group. Below are notes from the discussion
+Ideas on content to cover in the meetups  trivia short package intro and go through vignette with some extensions go through datasets from different industries
+ people can ask questions (ask a few days before) so that they can be addressed during the meetup
+ Topics of interest:  github docker/rocker setting up RStudio/Shiny in cloud (AWS, google cloud etc.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/IndyUserWebpg/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/IndyUserWebpg/about/</guid>
+      <description>The IndyUseR Group is dedicated to bringing together users of R (at all levels of experience from beginner to expert level) to exchange knowledge, inspire new users, and spur the adoption of R for innovative research and commercial applications.
+The meetup page for IndyUseR group is at this location.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/IndyUserWebpg/prevyearsmeetings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/prevyearsmeetings/</guid>
+      <description>2017 Meetings  November 2017: Perspective on Base R and Tidyverse by Stephen October 2017: An R Text Mining Case Study - Harry Rowe September 2017: Exploring UN General Debates Kaggle Dataset with R NLP Tools August 2017: Reproducibility and high-performance computing with drake July 2017: R in the development and analysis of forensic credibility assessment tests June 2017: Exploring Simmer - An R Package for Discrete Event Simulation May 2017: Overview of Julia by a R User April 2017: Cybersecurity Discussion March 2017: FREDcast, R Trivia, General Discussion February 2017: FREDcast, R Trivia, Webscraping and htmlWidgets January 2017: Kickoff Meeting for Year, General Discussion, Trends in Statistical Papers Using Google Scholar - Matt Gillam   2016 Meetings  November 2016: Predicting NBA Games using SQL R Services - Ryan Wade October 2016: New R tools for workflow management, testing, and reproducibility - Will Landau September 2016: Intro to R Programming at IUPUI - Fred Kukral August 2016: Presentation about feather - Matt Gillam July 2016: UseR 2016 Recap - Adam Simkowski June 2016: Leveraging Weather Data in R - Adam Simkowski May 2016: Big Molecules Meets Big Data: Predicting Protein Tertiary Structure from Combinatorial Chemistry Data - Stan Siranovich April 2016: Using R and Power BI to Analyze US Trade Balance with Other Countries - Ryan Wade March 2016: System Configuration and Development of R in Jupyter Notebook February 2016: Book overview: Mastering Machine Learning with R - Cory Lesmeister January 2016: Webscraping with rvest package - Shankar Vaidyaraman   2015 Meetings  November 2015: Typical Excel Tasks in R - Stuart Ward, Demo of a Shiny App that Analyzes Sentiments and Produces Wordcloud of Sentiments - J.</description>
+    </item>
+    
+  </channel>
+</rss>

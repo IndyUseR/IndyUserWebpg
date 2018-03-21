@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Hugo website</title>
+    <link>/IndyUserWebpg/post/</link>
+    <description>Recent content in Posts on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/IndyUserWebpg/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Reticulate Package - Shankar</title>
+      <link>/IndyUserWebpg/2018/03/20/mar2018/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/03/20/mar2018/</guid>
+      <description>Shankar covered the basics of reticulate package. The codes covered in the talk are in this location.</description>
+    </item>
+    
+    <item>
+      <title>rstudio::conf2018 and tidyeval Discussion - Will Landau</title>
+      <link>/IndyUserWebpg/2018/02/20/feb2018/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/02/20/feb2018/</guid>
+      <description>Will talked about rstudio::conf2018 and discussed tidyeval concepts that he recently learnt at Hadley Wickham’s rstudio::conf2018 tutorial. (link to Will’s presentation material)</description>
+    </item>
+    
+    <item>
+      <title>Discussion of 2018 plans</title>
+      <link>/IndyUserWebpg/2018/01/16/jan2018/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/01/16/jan2018/</guid>
+      <description>We discussed plans for 2018 as a group. Below are notes from the discussion
+Ideas on content to cover in the meetups  trivia short package intro and go through vignette with some extensions go through datasets from different industries
+ people can ask questions (ask a few days before) so that they can be addressed during the meetup
+ Topics of interest:  github docker/rocker setting up RStudio/Shiny in cloud (AWS, google cloud etc.</description>
+    </item>
+    
+  </channel>
+</rss>
