@@ -6,10 +6,30 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/IndyUserWebpg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Turning Your Analysis into an API with Plumber - Derrick Kearney</title>
+      <link>/IndyUserWebpg/2018/05/15/may2018/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/05/15/may2018/</guid>
+      <description>Derrick covered the topic of turning Analysis into an API with Plumber. The abstract of the talk and link to presented material are below.
+Abstract You’ve imported the data, cleaned it up, and built the model. Your next step is to communicate your findings with others. Typically this would mean writing a report or building a web application so other people could visualize how the model works, but sometime your Communicate step is someone else’s Import step.</description>
+    </item>
+    
+    <item>
+      <title>Using R in Power BI - Ryan Wade</title>
+      <link>/IndyUserWebpg/2018/04/17/apr2018/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/04/17/apr2018/</guid>
+      <description>Ryan wade covered the topic of using R in Power BI. The abstract of the talk, Ryan’s profile and link to presented material are below.
+Abstract R is a very powerful statistical programming language that has been gaining a lot of traction in recent years. In early 2015 Microsoft acquired Revolution Analytics, a major provider of software and services for R. Microsoft have since incorporated R in Azure ML, SQL Server 2016, and Power BI.</description>
+    </item>
     
     <item>
       <title>Intro to Reticulate Package - Shankar</title>
