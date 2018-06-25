@@ -6,10 +6,22 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/IndyUserWebpg/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neural Networks in R with nnet package - Harry Rowe</title>
+      <link>/IndyUserWebpg/2018/06/19/jun2018/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/06/19/jun2018/</guid>
+      <description>The abstract of the talk and link to presented material are below.
+Abstract This talk will cover a simple example of neural network using nnet package. The talk would show example of continuous output and classifier (using iris dataset) and show tuning of classifier with repeated cross validation.
+Link to material from talk
+ </description>
+    </item>
     
     <item>
       <title>Turning Your Analysis into an API with Plumber - Derrick Kearney</title>
