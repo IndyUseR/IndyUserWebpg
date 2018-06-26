@@ -10,4 +10,4 @@ The abstract of the talk and link to presented material are below.
 
 This talk will cover a simple example of neural network using nnet package. The talk would show example of continuous output and classifier (using iris dataset) and show tuning of classifier with repeated cross validation.
 
-[Link to material from talk](/docs/presentationFiles/jun2018)
+[Link to material from talk](https://github.com/IndyUseR/IndyUserWebpg/tree/master/static/presentationFiles/jun2018)
