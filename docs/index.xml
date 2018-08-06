@@ -6,10 +6,21 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/IndyUserWebpg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Working with Databases from R - Alex Axthelm</title>
+      <link>/IndyUserWebpg/2018/07/19/jul2018/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/07/19/jul2018/</guid>
+      <description>The abstract of the talk and link to presented material are below.
+Abstract Alex gave a demo of how to use R code to access and process data form SQL server.
+ </description>
+    </item>
     
     <item>
       <title>Neural Networks in R with nnet package - Harry Rowe</title>
