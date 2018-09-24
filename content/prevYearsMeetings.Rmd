@@ -3,7 +3,7 @@
 
 ## 2017 Meetings
 
-* [November 2017](): Perspective on Base R and Tidyverse by Stephen
+* [November 2017](http://ncss-tech.github.io/soil-pit/sandbox/stephen/base_vs_tidyverse_examples.html): Perspective on Base R and Tidyverse by Stephen
 * October 2017: An R Text Mining Case Study - Harry Rowe
 * [September 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_09_September/2017_09_MeetingMinutes.Rmd): Exploring UN General Debates Kaggle Dataset with R NLP Tools
 * [August 2017](https://indyuser.github.io/webpg/slides/2017_08_August/drake.html#/): Reproducibility and high-performance computing with drake
