@@ -6,10 +6,31 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/IndyUserWebpg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learnings from EARL Conference - Derrick Kearney and Roy Budhaditya</title>
+      <link>/IndyUserWebpg/2018/11/20/nov2018/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/11/20/nov2018/</guid>
+      <description>Abstract Derrick and Roy shared their learnings from the recent EARL conference that they attended.
+ </description>
+    </item>
+    
+    <item>
+      <title>An introduction to the US Federal Budget with R by Stephen</title>
+      <link>/IndyUserWebpg/2018/10/16/oct2018/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2018/10/16/oct2018/</guid>
+      <description>Abstract The budget of the United States Federal Government is often a contentious issue. This presentation will provide a ‘rough’ introduction, covering where to get the data, provide a breakdown of the numbers, and links to other resources.
+Link to presentation
+ </description>
+    </item>
     
     <item>
       <title>Time Series Group Forecasting with R and Interactive Visualization with ggvis - Roy Budhaditya</title>
