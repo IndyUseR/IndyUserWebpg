@@ -6,10 +6,21 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/IndyUserWebpg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Discussion of 2019 Plans</title>
+      <link>/IndyUserWebpg/2019/01/15/jan2019/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2019/01/15/jan2019/</guid>
+      <description>We discussed plans for 2019. We had sent a survey to the folks in IndyUseR meetup group (~400 members). We got only 13 responses. We reviewed the responses and factored those into our discussions. The summary of the 13 responses are in this location.
+We discussed the following:
+ Have zoom meetings for the meetups for so that folks can join online and location is less or a barrier Try to have meeting topics confirmed well before the meetup date Talked about having intro level talks to make the group welcoming to new R users Talked about bringing back R trivia segment for each of the meetups Will look into a R Training day  Topics of Interest: Some of the topics of interest listed in this year’s survey and talked about last year are listed in this location.</description>
+    </item>
     
     <item>
       <title>Learnings from EARL Conference - Derrick Kearney and Roy Budhaditya</title>
