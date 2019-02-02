@@ -4,7 +4,7 @@ slug: "jan2019"
 date: 2019-01-15
 ---
 
-We discussed plans for 2019. We had sent a [survey](https://docs.google.com/forms/d/1Atha7ak8Oasn_RTqlKK5ROejnai8by4L8-vOk6UXpAE/edit) to the folks in IndyUseR meetup group (~400 members). We got only 13 responses. We reviewed the responses and factored those into our discussions. The summary of the 13 responses are in this [location](https://github.com/IndyUseR/IndyUserWebpg/tree/master/static/presentationFiles/jan2019/IndyUserSurvey.html).
+We discussed plans for 2019. We had sent a [survey](https://docs.google.com/forms/d/1Atha7ak8Oasn_RTqlKK5ROejnai8by4L8-vOk6UXpAE/edit) to the folks in IndyUseR meetup group (~400 members). We got only 13 responses. We reviewed the responses and factored those into our discussions. The summary of the 13 responses are in this [location](https://indyuser.github.io/IndyUserWebpg/presentationFiles/jan2019/IndyUserSurvey.html).
 
 We discussed the following:
 
