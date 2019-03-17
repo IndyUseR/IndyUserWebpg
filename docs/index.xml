@@ -6,10 +6,19 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/IndyUserWebpg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recap of rstudio::conf 2019 - Derrick Kearney and Will Landau</title>
+      <link>/IndyUserWebpg/2019/02/19/jan2019/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2019/02/19/jan2019/</guid>
+      <description>Derrick and Will gave an overview of rstudio::conf 2019 and learning from it. Material covered during the meetup along with link to slides is in this location.</description>
+    </item>
     
     <item>
       <title>Discussion of 2019 Plans</title>
