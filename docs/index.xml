@@ -6,10 +6,38 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/IndyUserWebpg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning with Caret - Roy B., R Shiny Application - Lance Upton</title>
+      <link>/IndyUserWebpg/2019/07/16/july2019/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2019/07/16/july2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explore Simmer Package for Discrete Event Simulation in R</title>
+      <link>/IndyUserWebpg/2019/05/21/may2019/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2019/05/21/may2019/</guid>
+      <description>Abstract Discrete event simulation is a powerful approach to model real life processes that consist of a sequence of discrete events. An example of such system is queue in a coffee shop. We will explore the package simmer and work through some examples from the vignettes to learn how simmer can be used for doing discrete event simulation in R.
+ </description>
+    </item>
+    
+    <item>
+      <title>Creating (Web) Maps with R - Stephen Roecker</title>
+      <link>/IndyUserWebpg/2019/04/16/apr2019/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2019/04/16/apr2019/</guid>
+      <description>Abstract Most data has a spatial dimension to it. Knowing ‘where’ the data is coming from is often as crucial as knowing the ‘what’, ‘when’ and ‘who’ dimensions of a given dataset. Therefore it should be no surprise that R has a rich suite of packages for constructing maps and analyzing spatial data. R’s capability has grown so much over the years that it’s functionality rivals many dedicated geographic information systems (GIS).</description>
+    </item>
     
     <item>
       <title>Putting the R in Docker: An introduction to single application containers by Derrick Kearney</title>
