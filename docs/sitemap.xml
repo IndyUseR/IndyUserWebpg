@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/IndyUserWebpg/2019/11/19/nov2019/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/IndyUserWebpg/2019/10/15/oct2019/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/IndyUserWebpg/2019/09/17/sep2019/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/IndyUserWebpg/2019/08/20/aug2019/</loc>
+    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/IndyUserWebpg/2019/07/16/july2019/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
   </url>
@@ -97,7 +117,7 @@
   
   <url>
     <loc>/IndyUserWebpg/</loc>
-    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -108,7 +128,7 @@
   
   <url>
     <loc>/IndyUserWebpg/post/</loc>
-    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
