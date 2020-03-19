@@ -6,10 +6,31 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/IndyUserWebpg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Renv package - Derrick Kearney</title>
+      <link>/IndyUserWebpg/2020/03/17/mar2020/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2020/03/17/mar2020/</guid>
+      <description>Abstract Join us for two presentation. 1. Vijay Lulla will be leading us in an exploration of the unexpected parts of the R language in a round of R Trivia! 2. Derrick Kearney will share usage scenarios for renv, an R package that helps create portable and reproducible development environments. The package author, Kevin Ushey, explains the basics in his video. We’ll build on top of it with practical usage examples.</description>
+    </item>
+    
+    <item>
+      <title>rstudio::conf(2020) Recap - Derrick Kearney</title>
+      <link>/IndyUserWebpg/2020/02/18/feb2020/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2020/02/18/feb2020/</guid>
+      <description>Derrick reviewed the highlights from rstudio::conf (2020)
+Links:
+ link to video
+ link to slides  </description>
+    </item>
     
     <item>
       <title>RNA Sequencing: Analysis of gene expression data using R - Nadia Atallah Lanman</title>
