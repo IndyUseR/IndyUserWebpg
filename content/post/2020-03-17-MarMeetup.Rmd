@@ -12,5 +12,5 @@ Join us for two presentation.
 
 Links:
 
-* [link to video]()  
+* [link to video](https://www.youtube.com/watch?v=r6r6AdBMY2Y)  
 * [link to examples discussed](https://github.com/dskard/indy-use-r-202003)
