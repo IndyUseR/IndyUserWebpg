@@ -6,10 +6,49 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/IndyUserWebpg/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RStudio Connect - Gagandeep Singh and Ryan Johnson</title>
+      <link>/IndyUserWebpg/2020/07/21/jul2020/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2020/07/21/jul2020/</guid>
+      <description>Links Meetup Video
+ </description>
+    </item>
+    
+    <item>
+      <title>Time Series Forecasting with Fable Package - Sri Seshadri</title>
+      <link>/IndyUserWebpg/2020/06/16/jun2020/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2020/06/16/jun2020/</guid>
+      <description>Links Meetup Video Slides and Code
+ </description>
+    </item>
+    
+    <item>
+      <title>Golem: Framework for Building Production Grade Shiny Apps - Lance Upton</title>
+      <link>/IndyUserWebpg/2020/05/19/may2020/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2020/05/19/may2020/</guid>
+      <description>Abstract Lance introduced us to the R package named golem, which can be used to create production-grade Shiny applications. If you are into R based web application development and Shiny, this framework may be your guide to keeping your code organized with it’s embedded best practices.
+Lance graciously agreed to do this meetup session for us at extremely short notice. So there were a few hiccups during the live demo. But he agreed to do another recording after the meetup to showcase Golem again which went more smoothly.</description>
+    </item>
+    
+    <item>
+      <title>Plumber Package Discussion - Bill McLellan</title>
+      <link>/IndyUserWebpg/2020/04/21/apr2020/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2020/04/21/apr2020/</guid>
+      <description>Bill led the discussion of Plumber package (video)</description>
+    </item>
     
     <item>
       <title>Renv package - Derrick Kearney</title>
