@@ -6,10 +6,30 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/IndyUserWebpg/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Caching Data with Pins Package - Derrick Kearney</title>
+      <link>/IndyUserWebpg/2020/10/20/oct2020/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2020/10/20/oct2020/</guid>
+      <description>Links Meetup Video - coming soon
+ </description>
+    </item>
+    
+    <item>
+      <title>Overview of Reticulate - Shankar</title>
+      <link>/IndyUserWebpg/2020/09/15/sep2020/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/IndyUserWebpg/2020/09/15/sep2020/</guid>
+      <description>Links Meetup Video - Coming Soon
+ </description>
+    </item>
     
     <item>
       <title>RStudio Connect - Gagandeep Singh and Ryan Johnson</title>

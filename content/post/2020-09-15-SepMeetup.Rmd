@@ -1,0 +1,10 @@
+---
+title: "Overview of Reticulate - Shankar"
+slug: "sep2020"
+date: 2020-09-15
+---
+
+## Links
+[Meetup Video - Coming Soon]()
+
+
